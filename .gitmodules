@@ -1,0 +1,3 @@
+[submodule "libs/repositoryExtern"]
+	path = libs/repositoryExtern
+	url = git@github.com:acocinas/templateExample.git
